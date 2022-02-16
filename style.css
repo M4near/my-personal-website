@@ -23,3 +23,20 @@ body {
     font-weight: bold;
     color: red;
 }
+
+h2 {
+    text-decoration: underline;
+}
+#movies {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#movies td {
+    width: 25%;
+}
+
+#movies th {
+    text-decoration: underline;
+}
